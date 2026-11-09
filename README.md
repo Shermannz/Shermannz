@@ -1,8 +1,13 @@
-<div align="center">
+ <div align="center">
 
-<img width="100%" src="./assets/ocean-header.svg" alt="Robson Cardoso Faraco - Back-end Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,35:0077B6,70:023E8A,100:03045E&height=160&section=footer" />
 
-</div>
+# Robson Cardoso Faraco
+
+### Desenvolvedor Back-end | C# • .NET
+
+**Construindo APIs, integrações e aplicações com foco em organização, segurança e qualidade de código.**
+
 <br/>
 
 <a href="https://github.com/Shermannz">
