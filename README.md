@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:robsonfaraco@gmail.com">
-  <img src="https://img.shields.io/badge/Email-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact%20me-0077B6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
