@@ -16,9 +16,7 @@
 <a href="https://linkedin.com/in/robson-cardoso-faraco">
   <img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:robsonfaraco@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20me-0077B6?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="mailto:robsonfaraco@gmail.com">robsonfaraco@gmail.com</a>
 
 <br/><br/>
 
