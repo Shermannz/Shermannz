@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:03045E,50:0077B6,100:48CAE4&height=220&section=header&text=Robson%20Cardoso%20Faraco&fontSize=40&fontColor=CAF0F8&fontAlignY=38&desc=Desenvolvedor%20Back-End%20.NET%20J%C3%BAnior&descSize=18&descColor=CAF0F8&descAlignY=60&animation=fadeIn)
 
-### 🌊 Mergulhando em código: APIs, bancos de dados e autenticação 🌊
-
 <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,react,ts,java,spring,git&theme=dark" alt="Tecnologias principais" />
 
 </div>
@@ -12,43 +10,43 @@
 
 <div align="center">🌊 &nbsp; 🌊 &nbsp; 🌊</div>
 
-## 🐚 Sobre mim
+## Sobre mim
 
 Sou **desenvolvedor back-end .NET júnior**, com **1 ano de experiência** construindo APIs e aplicações web em C# e ASP.NET.
 Gosto de código organizado em camadas, bancos de dados bem modelados e autenticação segura.
 Também tenho base em **Java/Spring** e **React com TypeScript**, e estou cursando **Análise e Desenvolvimento de Sistemas** na Descomplica.
 
-📫 Aberto a oportunidades CLT em desenvolvimento back-end.
+Aberto a oportunidades CLT em desenvolvimento back-end.
 
 <div align="center">🌊 &nbsp; 🌊 &nbsp; 🌊</div>
 
-## 🧭 Tecnologias
+## Tecnologias
 
-### 🌌 Águas profundas: Back-end .NET
+### Back-end .NET
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" alt="C# e .NET" />
 
 `C#` · `.NET` · `ASP.NET MVC` · `Web API` · `Razor Pages` · `WebForms` · `Entity Framework Core` · `Dapper` · `JWT`
 
-### 🪸 Recifes: Bancos de dados
+### Bancos de dados
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&theme=dark" alt="Bancos de dados" />
 
 `SQL Server` · `PostgreSQL` · `MySQL` · `SQLite` · `MongoDB (noções)`
 
-### 🏝️ Superfície: Front-end
+### Front-end
 
 <img src="https://skillicons.dev/icons?i=react,ts,js&theme=dark" alt="Front-end" />
 
 `React` · `TypeScript` · `JavaScript`
 
-### 🚢 Convés: Java
+### Java
 
 <img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" alt="Java" />
 
 `Java` · `Spring Boot` · `Spring Security` · `OAuth2` · `Maven`
 
-### 🤿 Equipamento: Ferramentas
+### Ferramentas
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,docker&theme=dark" alt="Ferramentas" />
 
@@ -56,7 +54,7 @@ Também tenho base em **Java/Spring** e **React com TypeScript**, e estou cursan
 
 <div align="center">🌊 &nbsp; 🌊 &nbsp; 🌊</div>
 
-## ⚓ Projetos em destaque
+## Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
@@ -67,18 +65,23 @@ Também tenho base em **Java/Spring** e **React com TypeScript**, e estou cursan
 
 <div align="center">🌊 &nbsp; 🌊 &nbsp; 🌊</div>
 
-## 🎓 Formação
+## Formação
 
 **Análise e Desenvolvimento de Sistemas** · Descomplica (em andamento)
 
 <div align="center">🌊 &nbsp; 🌊 &nbsp; 🌊</div>
 
-## 📬 Contato
+## Contato
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robson-cardoso-faraco)
-[![Gmail](https://img.shields.io/badge/Gmail-00B4D8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robsonfaraco@gmail.com)
+<a href="https://linkedin.com/in/robson-cardoso-faraco"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="56" alt="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="mailto:robsonfaraco@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="56" alt="E-mail" /></a>
+
+<br>
+
+[LinkedIn](https://linkedin.com/in/robson-cardoso-faraco) · [robsonfaraco@gmail.com](mailto:robsonfaraco@gmail.com)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:48CAE4,50:0077B6,100:03045E&height=120&section=footer&reversal=true)
 
