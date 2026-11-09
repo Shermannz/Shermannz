@@ -1,88 +1,169 @@
-<div align="center">
+ <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:03045E,50:0077B6,100:48CAE4&height=220&section=header&text=Robson%20Cardoso%20Faraco&fontSize=40&fontColor=CAF0F8&fontAlignY=38&desc=Desenvolvedor%20Back-End%20.NET%20J%C3%BAnior&descSize=18&descColor=CAF0F8&descAlignY=60&animation=fadeIn)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045E,50:0077B6,100:00B4D8&height=3" />
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,react,ts,java,spring,git&theme=dark" alt="Tecnologias principais" />
+# Robson Cardoso Faraco
+
+### Desenvolvedor Back-end | C# • .NET
+
+**Construindo APIs, integrações e aplicações com foco em organização, segurança e qualidade de código.**
+
+<br/>
+
+<a href="https://github.com/Shermannz">
+  <img src="https://img.shields.io/badge/GitHub-03045E?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/robson-cardoso-faraco">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:robsonfaraco@gmail.com">
+  <img src="https://img.shields.io/badge/Email-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,sqlite,git,github&theme=dark" />
 
 </div>
 
-<br>
-
-<div align="center">🌊 &nbsp; 🌊 &nbsp; 🌊</div>
+---
 
 ## Sobre mim
 
-Sou **desenvolvedor back-end .NET júnior**, com **1 ano de experiência** construindo APIs e aplicações web em C# e ASP.NET.
-Gosto de código organizado em camadas, bancos de dados bem modelados e autenticação segura.
-Também tenho base em **Java/Spring** e **React com TypeScript**, e estou cursando **Análise e Desenvolvimento de Sistemas** na Descomplica.
+Sou desenvolvedor **Back-end com foco no ecossistema C#/.NET**, com experiência profissional em desenvolvimento de aplicações web e construção de APIs.
 
-Aberto a oportunidades CLT em desenvolvimento back-end.
+Tenho interesse especial em:
 
-<div align="center">🌊 &nbsp; 🌊 &nbsp; 🌊</div>
+- Desenvolvimento de APIs REST com ASP.NET Core.
+- Arquitetura em camadas e separação de responsabilidades.
+- Modelagem de dados e integração com bancos relacionais.
+- Autenticação, autorização e segurança com JWT.
+- Persistência de dados com Entity Framework Core e Dapper.
 
-## Tecnologias
+Também possuo conhecimentos em Java/Spring Boot e tecnologias de front-end, além de estar cursando **Análise e Desenvolvimento de Sistemas pela Descomplica**.
 
-### Back-end .NET
+**Objetivo profissional:** oportunidades CLT como desenvolvedor Back-end .NET.
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" alt="C# e .NET" />
+---
 
-`C#` · `.NET` · `ASP.NET MVC` · `Web API` · `Razor Pages` · `WebForms` · `Entity Framework Core` · `Dapper` · `JWT`
-
-### Bancos de dados
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&theme=dark" alt="Bancos de dados" />
-
-`SQL Server` · `PostgreSQL` · `MySQL` · `SQLite` · `MongoDB (noções)`
-
-### Front-end
-
-<img src="https://skillicons.dev/icons?i=react,ts,js&theme=dark" alt="Front-end" />
-
-`React` · `TypeScript` · `JavaScript`
-
-### Java
-
-<img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" alt="Java" />
-
-`Java` · `Spring Boot` · `Spring Security` · `OAuth2` · `Maven`
-
-### Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker&theme=dark" alt="Ferramentas" />
-
-`Git` · `GitHub` · `Postman` · `Swagger` · `Docker (noções)`
-
-<div align="center">🌊 &nbsp; 🌊 &nbsp; 🌊</div>
-
-## Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [**ProjetoReceita**](https://github.com/Shermannz/ProjetoReceita) | API de receitas com ingredientes, utensílios e etapas de preparo, com login por JWT e controle por cargos | `.NET 10` `EF Core` `SQLite` `JWT` `BCrypt` `Swagger` |
-| [**ProjetoSerie**](https://github.com/Shermannz/ProjetoSerie) | API de séries, episódios e categorias, com paginação e upload de capas | `.NET 9` `Dapper` `SQLite` `Cloudinary` |
-| [**Projeto-Ebooks**](https://github.com/Shermannz/Projeto-Ebooks) | API de loja de ebooks com pedidos, saldo e publicação pelo autor | `Java 17` `Spring Boot` `Spring Security` `OAuth2/JWT` `JPA` |
-| [**Escola2.1**](https://github.com/Shermannz/Escola2.1) | API de gestão escolar com alunos, professores, aulas e notas | `Java 17` `Spring Boot` `OAuth2/JWT` `JPA` `H2` |
-
-<div align="center">🌊 &nbsp; 🌊 &nbsp; 🌊</div>
-
-## Formação
-
-**Análise e Desenvolvimento de Sistemas** · Descomplica (em andamento)
-
-<div align="center">🌊 &nbsp; 🌊 &nbsp; 🌊</div>
-
-## Contato
+## Stack tecnológica
 
 <div align="center">
 
-<a href="https://linkedin.com/in/robson-cardoso-faraco"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="56" alt="LinkedIn" /></a>
-&nbsp;&nbsp;
-<a href="mailto:robsonfaraco@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="56" alt="E-mail" /></a>
+### BACK-END
 
-<br>
+<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" />
 
-[LinkedIn](https://linkedin.com/in/robson-cardoso-faraco) · [robsonfaraco@gmail.com](mailto:robsonfaraco@gmail.com)
+`C#` ` .NET 9/10` ` ASP.NET Core` ` ASP.NET MVC` ` Web API` ` Entity Framework Core` ` Dapper` ` JWT`
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:48CAE4,50:0077B6,100:03045E&height=120&section=footer&reversal=true)
+<br/>
+
+### BANCOS DE DADOS
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&theme=dark" />
+
+`SQL Server` ` PostgreSQL` ` MySQL` ` SQLite` ` MongoDB (noções)`
+
+<br/>
+
+### OUTRAS TECNOLOGIAS
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,ts,js&theme=dark" />
+
+`Java` ` Spring Boot` ` Spring Security` ` React` ` TypeScript` ` JavaScript`
+
+<br/>
+
+### FERRAMENTAS
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker&theme=dark" />
+
+`Git` ` GitHub` ` Postman` ` Swagger` ` Docker (noções)`
+
+</div>
+
+---
+
+## Projetos em destaque
+
+Projetos desenvolvidos para praticar conceitos de arquitetura, persistência, autenticação e desenvolvimento de APIs.
+
+### 01. ProjetoReceita
+
+**API de gerenciamento de receitas culinárias**
+
+API para cadastro e gerenciamento de receitas, ingredientes, utensílios e etapas de preparo.
+
+- Autenticação e autorização com JWT.
+- Controle de acesso por cargos.
+- Relacionamentos entre entidades.
+- Persistência com Entity Framework Core.
+
+`C#` ` .NET 10` ` EF Core` ` SQLite` ` JWT` ` BCrypt` ` Swagger`
+
+[![Repositório](https://img.shields.io/badge/VER_REPOSITÓRIO-0077B6?style=flat-square&logo=github&logoColor=white)](https://github.com/Shermannz/ProjetoReceita)
+
+---
+
+### 02. ProjetoSerie
+
+**API de gerenciamento de séries e episódios**
+
+API para gerenciamento de séries, episódios e categorias, incluindo recursos de paginação e armazenamento de imagens.
+
+`C#` ` .NET 9` ` Dapper` ` SQLite` ` Cloudinary`
+
+[![Repositório](https://img.shields.io/badge/VER_REPOSITÓRIO-0077B6?style=flat-square&logo=github&logoColor=white)](https://github.com/Shermannz/ProjetoSerie)
+
+---
+
+### 03. Projeto-Ebooks
+
+**API para gerenciamento de uma loja de e-books**
+
+Aplicação com gerenciamento de usuários, pedidos, saldo e publicação de livros por autores.
+
+`Java 17` ` Spring Boot` ` Spring Security` ` OAuth2/JWT` ` JPA`
+
+[![Repositório](https://img.shields.io/badge/VER_REPOSITÓRIO-0077B6?style=flat-square&logo=github&logoColor=white)](https://github.com/Shermannz/Projeto-Ebooks)
+
+---
+
+### 04. Escola2.1
+
+**API de gerenciamento escolar**
+
+Sistema para gerenciamento de alunos, professores, aulas e notas.
+
+`Java 17` ` Spring Boot` ` OAuth2/JWT` ` JPA` ` H2`
+
+[![Repositório](https://img.shields.io/badge/VER_REPOSITÓRIO-0077B6?style=flat-square&logo=github&logoColor=white)](https://github.com/Shermannz/Escola2.1)
+
+---
+
+## Formação
+
+**Tecnólogo em Análise e Desenvolvimento de Sistemas**
+
+Faculdade Descomplica · Em andamento
+
+---
+
+<div align="center">
+
+### Vamos conversar?
+
+Estou aberto a oportunidades e conexões na área de desenvolvimento de software.
+
+<a href="https://linkedin.com/in/robson-cardoso-faraco">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:robsonfaraco@gmail.com">
+  <img src="https://img.shields.io/badge/robsonfaraco%40gmail.com-03045E?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03045E,50:0077B6,100:00B4D8&height=90&section=footer" />
 
 </div>
