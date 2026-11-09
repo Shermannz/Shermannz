@@ -1,7 +1,8 @@
- <div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03045E,35:023E8A,70:0077B6,100:00B4D8&height=240&section=header&text=Robson%20Cardoso%20Faraco&fontSize=38&fontColor=CAF0F8&fontAlignY=38&desc=BACK-END%20DEVELOPER%20%7C%20C%23%20%26%20.NET&descSize=16&descColor=ADE8F4&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="./assets/ocean-header.svg" alt="Robson Cardoso Faraco - Back-end Developer" />
 
+</div>
 <br/>
 
 <a href="https://github.com/Shermannz">
