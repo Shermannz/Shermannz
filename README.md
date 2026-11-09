@@ -1,18 +1,18 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0A66C2&height=180&section=header&text=Robson%20Cardoso%20Faraco&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Back-End%20.NET%20J%C3%BAnior&descSize=18&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:03045E,50:0077B6,100:48CAE4&height=220&section=header&text=Robson%20Cardoso%20Faraco&fontSize=40&fontColor=CAF0F8&fontAlignY=38&desc=Desenvolvedor%20Back-End%20.NET%20J%C3%BAnior&descSize=18&descColor=CAF0F8&descAlignY=60&animation=fadeIn)
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 🌊 Mergulhando em código: APIs, bancos de dados e autenticação 🌊
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,react,ts,java,spring,git&theme=dark" alt="Tecnologias principais" />
 
 </div>
 
----
+<br>
 
-## 👋 Sobre mim
+<div align="center">🌊 &nbsp; 🌊 &nbsp; 🌊</div>
+
+## 🐚 Sobre mim
 
 Sou **desenvolvedor back-end .NET júnior**, com **1 ano de experiência** construindo APIs e aplicações web em C# e ASP.NET.
 Gosto de código organizado em camadas, bancos de dados bem modelados e autenticação segura.
@@ -20,60 +20,43 @@ Também tenho base em **Java/Spring** e **React com TypeScript**, e estou cursan
 
 📫 Aberto a oportunidades CLT em desenvolvimento back-end.
 
----
+<div align="center">🌊 &nbsp; 🌊 &nbsp; 🌊</div>
 
-## 🛠️ Tecnologias
+## 🧭 Tecnologias
 
-### 🟣 Back-end .NET
+### 🌌 Águas profundas: Back-end .NET
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
-![Web API](https://img.shields.io/badge/Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Razor Pages](https://img.shields.io/badge/Razor%20Pages-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![WebForms](https://img.shields.io/badge/WebForms-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-0A66C2?style=flat-square&logo=dotnet&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" alt="C# e .NET" />
 
-### 🗄️ Bancos de dados
+`C#` · `.NET` · `ASP.NET MVC` · `Web API` · `Razor Pages` · `WebForms` · `Entity Framework Core` · `Dapper` · `JWT`
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB%20(noções)-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### 🪸 Recifes: Bancos de dados
 
-### 🌐 Front-end
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&theme=dark" alt="Bancos de dados" />
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+`SQL Server` · `PostgreSQL` · `MySQL` · `SQLite` · `MongoDB (noções)`
 
-### ☕ Java
+### 🏝️ Superfície: Front-end
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,ts,js&theme=dark" alt="Front-end" />
 
-### 🧰 Ferramentas
+`React` · `TypeScript` · `JavaScript`
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker%20(noções)-2496ED?style=flat-square&logo=docker&logoColor=white)
+### 🚢 Convés: Java
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" alt="Java" />
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,react,ts,js,postgres,mysql,sqlite,mongodb,docker,git,github,postman,maven&perline=8)](https://skillicons.dev)
+`Java` · `Spring Boot` · `Spring Security` · `OAuth2` · `Maven`
 
-</div>
+### 🤿 Equipamento: Ferramentas
 
----
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker&theme=dark" alt="Ferramentas" />
 
-## 🚀 Projetos em destaque
+`Git` · `GitHub` · `Postman` · `Swagger` · `Docker (noções)`
+
+<div align="center">🌊 &nbsp; 🌊 &nbsp; 🌊</div>
+
+## ⚓ Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
@@ -82,21 +65,21 @@ Também tenho base em **Java/Spring** e **React com TypeScript**, e estou cursan
 | [**Projeto-Ebooks**](https://github.com/Shermannz/Projeto-Ebooks) | API de loja de ebooks com pedidos, saldo e publicação pelo autor | `Java 17` `Spring Boot` `Spring Security` `OAuth2/JWT` `JPA` |
 | [**Escola2.1**](https://github.com/Shermannz/Escola2.1) | API de gestão escolar com alunos, professores, aulas e notas | `Java 17` `Spring Boot` `OAuth2/JWT` `JPA` `H2` |
 
----
+<div align="center">🌊 &nbsp; 🌊 &nbsp; 🌊</div>
 
-## 📚 Formação
+## 🎓 Formação
 
-🎓 **Análise e Desenvolvimento de Sistemas** — Descomplica (em andamento)
+**Análise e Desenvolvimento de Sistemas** · Descomplica (em andamento)
 
----
+<div align="center">🌊 &nbsp; 🌊 &nbsp; 🌊</div>
 
 ## 📬 Contato
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robson-cardoso-faraco)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robsonfaraco@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robson-cardoso-faraco)
+[![Gmail](https://img.shields.io/badge/Gmail-00B4D8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robsonfaraco@gmail.com)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0A66C2&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:48CAE4,50:0077B6,100:03045E&height=120&section=footer&reversal=true)
 
 </div>
