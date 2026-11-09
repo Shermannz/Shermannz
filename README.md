@@ -1,12 +1,6 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,35:0077B6,70:023E8A,100:03045E&height=160&section=footer" />
-
-# Robson Cardoso Faraco
-
-### Desenvolvedor Back-end | C# • .NET
-
-**Construindo APIs, integrações e aplicações com foco em organização, segurança e qualidade de código.**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03045E,35:023E8A,70:0077B6,100:00B4D8&height=190&section=header&text=Robson%20Cardoso%20Faraco&fontSize=38&fontColor=CAF0F8&fontAlignY=35&desc=BACK-END%20DEVELOPER%20%7C%20C%23%20%26%20.NET&descSize=16&descColor=CAF0F8&descAlignY=55&animation=fadeIn" />
 
 <br/>
 
@@ -26,7 +20,7 @@
 
 <br/><br/>
 
-<em>Desenvolvimento back-end com foco em organização, segurança e qualidade de código.</em>
+*Desenvolvimento back-end com foco em organização, segurança e qualidade de código.*
 
 </div>
 
@@ -114,7 +108,7 @@ API para cadastro e gerenciamento de receitas, ingredientes, utensílios e etapa
 
 **Tecnologias**
 
-`C#` ` .NET 10` ` EF Core` ` SQLite` ` JWT` ` BCrypt` ` Swagger`
+`C#` · `.NET 10` · `EF Core` · `SQLite` · `JWT` · `BCrypt` · `Swagger`
 
 <a href="https://github.com/Shermannz/ProjetoReceita">
 <img src="https://img.shields.io/badge/EXPLORAR_PROJETO-0077B6?style=for-the-badge&logo=github&logoColor=white" />
@@ -130,7 +124,7 @@ API para gerenciamento de séries, episódios e categorias, com paginação e in
 
 **Tecnologias**
 
-`C#` ` .NET 9` ` Dapper` ` SQLite` ` Cloudinary`
+`C#` · `.NET 9` · `Dapper` · `SQLite` · `Cloudinary`
 
 <a href="https://github.com/Shermannz/ProjetoSerie">
 <img src="https://img.shields.io/badge/EXPLORAR_PROJETO-0077B6?style=for-the-badge&logo=github&logoColor=white" />
@@ -146,7 +140,7 @@ Aplicação com gerenciamento de usuários, pedidos, saldo e publicação de liv
 
 **Tecnologias**
 
-`Java 17` ` Spring Boot` ` Spring Security` ` OAuth2/JWT` ` JPA`
+`Java 17` · `Spring Boot` · `Spring Security` · `OAuth2/JWT` · `JPA`
 
 <a href="https://github.com/Shermannz/Projeto-Ebooks">
 <img src="https://img.shields.io/badge/EXPLORAR_PROJETO-0077B6?style=for-the-badge&logo=github&logoColor=white" />
@@ -184,6 +178,6 @@ Aberto a oportunidades profissionais e conexões na área de desenvolvimento de 
 
 <sub>ROBSON CARDOSO FARACO · BACK-END DEVELOPER</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,35:0077B6,70:023E8A,100:03045E&height=160&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,35:0077B6,70:023E8A,100:03045E&height=190&section=footer" />
 
 </div>
